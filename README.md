@@ -34,4 +34,9 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
