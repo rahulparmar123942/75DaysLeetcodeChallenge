@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
