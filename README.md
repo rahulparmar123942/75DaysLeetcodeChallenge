@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
