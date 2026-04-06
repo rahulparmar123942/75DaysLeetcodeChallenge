@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -117,10 +118,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0090-subsets-ii) |
