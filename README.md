@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
