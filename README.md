@@ -65,6 +65,7 @@
 | [0008-string-to-integer-atoi](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
