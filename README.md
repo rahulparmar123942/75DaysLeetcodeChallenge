@@ -76,6 +76,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
