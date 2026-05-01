@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
@@ -164,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
