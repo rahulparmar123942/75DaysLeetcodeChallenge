@@ -38,6 +38,7 @@
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
