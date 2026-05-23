@@ -29,6 +29,7 @@
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
