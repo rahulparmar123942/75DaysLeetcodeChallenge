@@ -214,6 +214,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 ## Binary Indexed Tree
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
