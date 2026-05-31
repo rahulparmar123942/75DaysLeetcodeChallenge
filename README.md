@@ -217,6 +217,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
@@ -256,6 +257,7 @@
 | [0141-linked-list-cycle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
