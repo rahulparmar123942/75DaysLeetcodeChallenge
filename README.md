@@ -105,6 +105,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -218,6 +220,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
@@ -258,6 +261,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
