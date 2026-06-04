@@ -17,17 +17,20 @@ class Solution {
         ListNode j = list2;
 
         while(i!=null && j!=null){
+
              if(i.val<=j.val){
                 k.next =i;
                 k = k.next;
                 i = i.next;
              }
+
              else{
                 k.next =j;
                 k = k.next;
                 j = j.next;
              }
            }
+           
            if(i!=null){
              k.next = i;
            }else{
