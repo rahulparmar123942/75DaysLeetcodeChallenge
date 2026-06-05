@@ -24,10 +24,10 @@ class Solution {
             int num = sum % 10;
             carry= sum / 10;
 
-            dummy.next = new ListNode(num);
-            dummy = dummy.next;
+            temp.next = new ListNode(num);
+            temp = temp.next;
         }
 
-        return temp.next;
+        return dummy.next;
     }
 }
