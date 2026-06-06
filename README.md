@@ -278,6 +278,7 @@
 | [0328-odd-even-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
