@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
@@ -268,6 +269,7 @@
 | [0061-rotate-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
