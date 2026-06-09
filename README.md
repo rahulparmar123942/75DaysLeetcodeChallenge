@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -57,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -305,5 +308,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
