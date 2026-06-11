@@ -34,6 +34,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -226,6 +227,7 @@
 | [0048-rotate-image](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -247,6 +249,7 @@
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
@@ -278,6 +281,7 @@
 | [0054-spiral-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
@@ -324,4 +328,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
