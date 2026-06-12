@@ -219,6 +219,7 @@
 | [0078-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
@@ -229,6 +230,7 @@
 | [0048-rotate-image](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
