@@ -107,6 +107,7 @@
 | [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -217,6 +218,7 @@
 | [0039-combination-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -328,6 +330,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -365,6 +368,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +381,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
