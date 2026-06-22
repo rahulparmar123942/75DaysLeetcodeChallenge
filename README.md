@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
@@ -193,6 +195,7 @@
 | [0048-rotate-image](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -217,6 +220,7 @@
 | [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -323,6 +327,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
