@@ -1,31 +1,39 @@
 class Solution {
+
+    static final int INT_MIN_VAL = Integer.MIN_VALUE;
+    static final int INT_MAX_VAL = Integer.MAX_VALUE;
+
+    static int helper(String s, int i, long num, int sign) {
+
+        if (i >= s.length() || !Character.isDigit(s.charAt(i))) {
+            return (int)(num * sign);
+        }
+
+        num = num * 10 + (s.charAt(i) - '0');
+
+        if (sign * num <= INT_MIN_VAL) return INT_MIN_VAL;
+        if (sign * num >= INT_MAX_VAL) return INT_MAX_VAL;
+
+        return helper(s, i + 1, num, sign);
+    }
+
     public int myAtoi(String s) {
-         s = s.trim();
-        if (s.isEmpty()) return 0;
 
-        int i = 0, sign = 1, n = s.length();
-        int num = 0;
+        int i = 0;
 
-        // Handle sign
-        if (s.charAt(i) == '-' || s.charAt(i) == '+') {
+        while (i < s.length() && s.charAt(i) == ' ') {
+            i++;
+        }
+
+        int sign = 1;
+
+        if (i < s.length() &&
+                (s.charAt(i) == '-' || s.charAt(i) == '+')) {
+
             sign = (s.charAt(i) == '-') ? -1 : 1;
             i++;
         }
 
-        // Process digits
-        while (i < n && Character.isDigit(s.charAt(i))) {
-            int digit = s.charAt(i) - '0';
-
-            // Check overflow BEFORE adding digit
-            if (num > (Integer.MAX_VALUE - digit) / 10) {
-                return (sign == 1) ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-            }
-
-            num = num * 10 + digit;
-            i++;
-        }
-
-        return num * sign;
+        return helper(s, i, 0, sign);
     }
-
 }
