@@ -49,6 +49,7 @@
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -420,4 +424,9 @@
 | [0112-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
