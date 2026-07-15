@@ -351,6 +351,7 @@
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -394,6 +395,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
