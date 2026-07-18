@@ -40,6 +40,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -256,6 +257,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Combinatorics
 |  |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
