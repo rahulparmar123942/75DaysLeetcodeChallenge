@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
+| [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
@@ -125,6 +126,7 @@
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
+| [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1446-consecutive-characters) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 ## Greedy
 |  |
