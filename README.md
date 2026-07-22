@@ -50,6 +50,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
@@ -130,6 +131,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1446-consecutive-characters) |
+| [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
+| [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 ## Greedy
 |  |
