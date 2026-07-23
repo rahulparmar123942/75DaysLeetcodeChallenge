@@ -381,6 +381,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -431,6 +432,7 @@
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -457,6 +459,7 @@
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -483,6 +486,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting Sort
 |  |
