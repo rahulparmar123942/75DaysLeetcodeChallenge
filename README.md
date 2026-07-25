@@ -52,6 +52,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
@@ -96,6 +97,7 @@
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -109,6 +111,7 @@
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
@@ -232,6 +235,7 @@
 | [0238-product-of-array-except-self](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 ## Greedy
 |  |
@@ -239,6 +243,7 @@
 | [0011-container-with-most-water](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
