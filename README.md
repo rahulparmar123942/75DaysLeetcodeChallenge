@@ -37,6 +37,7 @@
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
@@ -95,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -198,11 +200,13 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
@@ -218,6 +222,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +286,7 @@
 | [0048-rotate-image](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -509,4 +515,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
