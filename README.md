@@ -33,6 +33,7 @@
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -109,6 +111,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -181,6 +184,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -206,6 +210,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -519,4 +524,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
