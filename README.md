@@ -110,6 +110,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -528,4 +529,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
