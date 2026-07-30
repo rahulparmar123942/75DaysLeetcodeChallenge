@@ -313,6 +313,7 @@
 | [1922-count-good-numbers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2843-count-symmetric-integers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Combinatorics
 |  |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2843-count-symmetric-integers](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2843-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
