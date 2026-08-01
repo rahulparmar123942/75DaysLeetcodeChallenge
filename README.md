@@ -47,6 +47,7 @@
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -91,6 +92,7 @@
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [2032-two-out-of-three](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2032-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
@@ -555,6 +557,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
 ## Interactive
 |  |
 | ------- |
