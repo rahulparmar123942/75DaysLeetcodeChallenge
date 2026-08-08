@@ -65,6 +65,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -285,6 +286,7 @@
 | [0011-container-with-most-water](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
