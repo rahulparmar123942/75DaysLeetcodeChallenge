@@ -47,6 +47,7 @@
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -268,6 +269,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -301,6 +303,7 @@
 | [0198-house-robber](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
