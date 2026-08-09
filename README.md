@@ -168,6 +168,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1446-consecutive-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
