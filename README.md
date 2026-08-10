@@ -119,6 +119,7 @@
 | [0015-3sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
@@ -213,6 +214,7 @@
 | [0125-valid-palindrome](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -236,6 +238,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -394,6 +397,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -430,6 +434,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
