@@ -10,23 +10,41 @@
  */
 class Solution {
     public ListNode insertionSortList(ListNode head) {
-        
-        ListNode dummy = new ListNode(0);
+        if(head == null || head.next == null) return head;
+       
+       ListNode slow = head;
+       ListNode fast = head;
+       ListNode prev = null;
+    
+    while(fast!= null && fast.next!=null){
+        prev = slow;
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    prev.next = null;
 
-        ListNode curr = head;
+    ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
 
-        while(curr!=null){
+        ListNode left = insertionSortList(head);
+        ListNode right = insertionSortList(slow);
 
-            ListNode temp = dummy;
-            ListNode next = curr.next;
+        while(left!=null && right!=null){
 
-            while(temp.next!=null && temp.next.val<curr.val){
-                temp = temp.next;
-            }
-            curr.next = temp.next;
-            temp.next = curr;
-            curr = next;
+         if(left.val<right.val){
+            temp.next = left;
+            left = left.next;
+            temp = temp.next;
+         } else{
+            temp.next = right;
+            right = right.next;
+            temp = temp.next;
+         }      
         }
+        if(left==null)temp.next = right;
+        else temp.next = left;
+
         return dummy.next;
+       
     }
 }
