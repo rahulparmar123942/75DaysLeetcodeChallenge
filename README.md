@@ -54,6 +54,7 @@
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
@@ -282,6 +283,7 @@
 | [0079-word-search](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -317,6 +319,7 @@
 | [0213-house-robber-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Backtracking
 |  |
