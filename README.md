@@ -81,6 +81,7 @@
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -321,6 +322,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 ## Backtracking
 |  |
 | ------- |
