@@ -86,6 +86,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3693-climbing-stairs-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
+| [3693-climbing-stairs-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
