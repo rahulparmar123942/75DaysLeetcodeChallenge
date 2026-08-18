@@ -86,6 +86,7 @@
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3693-climbing-stairs-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -117,6 +118,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
