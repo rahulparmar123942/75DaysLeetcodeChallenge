@@ -184,6 +184,7 @@
 | [0242-valid-anagram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
@@ -240,6 +241,7 @@
 | [0234-palindrome-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
