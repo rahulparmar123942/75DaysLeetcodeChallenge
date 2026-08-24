@@ -72,6 +72,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2032-two-out-of-three](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -314,6 +315,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -354,6 +356,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [3693-climbing-stairs-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
