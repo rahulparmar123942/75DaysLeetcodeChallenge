@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0414-third-maximum-number) |
@@ -163,6 +164,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -355,6 +357,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
 | [0494-target-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0518-coin-change-ii) |
@@ -694,4 +697,8 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
