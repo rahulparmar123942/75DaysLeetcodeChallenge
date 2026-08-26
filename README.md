@@ -72,6 +72,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -365,6 +366,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
