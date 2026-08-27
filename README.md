@@ -64,6 +64,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
@@ -172,6 +173,7 @@
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -326,6 +328,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
