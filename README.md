@@ -82,6 +82,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -157,6 +158,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
@@ -178,6 +180,7 @@
 | [1539-kth-missing-positive-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
