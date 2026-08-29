@@ -100,6 +100,7 @@
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -162,6 +163,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -645,6 +647,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
 | ------- |
