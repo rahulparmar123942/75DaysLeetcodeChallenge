@@ -56,6 +56,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
@@ -358,6 +359,7 @@
 | [0011-container-with-most-water](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
