@@ -29,6 +29,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0213-house-robber-ii) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0278-first-bad-version) |
