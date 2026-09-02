@@ -102,6 +102,7 @@
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -190,6 +191,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## String
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3693-climbing-stairs-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -473,10 +476,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Merge Sort
 |  |
 | ------- |
