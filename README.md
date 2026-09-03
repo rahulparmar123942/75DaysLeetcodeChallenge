@@ -61,6 +61,7 @@
 | [0860-lemonade-change](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
