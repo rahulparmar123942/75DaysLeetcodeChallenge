@@ -55,6 +55,7 @@
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
@@ -160,6 +161,7 @@
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -250,6 +252,7 @@
 | [0503-next-greater-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -370,6 +373,7 @@
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -578,6 +582,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
