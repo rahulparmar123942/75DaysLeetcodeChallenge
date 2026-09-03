@@ -65,6 +65,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -370,6 +371,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
