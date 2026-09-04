@@ -140,6 +140,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2032-two-out-of-three) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
@@ -233,6 +234,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1446-consecutive-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -338,6 +340,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
@@ -716,6 +719,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Interactive
