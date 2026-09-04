@@ -41,6 +41,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
@@ -185,6 +186,7 @@
 | [0278-first-bad-version](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -363,6 +365,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -373,6 +376,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
@@ -397,6 +401,7 @@
 | [0213-house-robber-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
