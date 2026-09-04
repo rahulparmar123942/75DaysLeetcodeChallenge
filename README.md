@@ -69,6 +69,7 @@
 | [0986-interval-list-intersections](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -409,6 +410,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1911-maximum-alternating-subsequence-sum) |
