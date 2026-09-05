@@ -105,6 +105,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -176,6 +177,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -204,6 +206,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## String
@@ -393,6 +396,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -421,6 +425,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2742-painting-the-walls](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2742-painting-the-walls) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
