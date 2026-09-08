@@ -319,6 +319,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -456,6 +457,7 @@
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
