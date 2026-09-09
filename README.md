@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0064-minimum-path-sum) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
@@ -406,6 +408,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
