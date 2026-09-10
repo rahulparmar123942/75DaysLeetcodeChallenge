@@ -244,6 +244,7 @@
 | [1143-longest-common-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1446-consecutive-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2381-shifting-letters-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -278,6 +279,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -406,6 +408,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
@@ -802,4 +805,5 @@
 | [0020-valid-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
