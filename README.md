@@ -238,6 +238,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0848-shifting-letters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1143-longest-common-subsequence) |
@@ -272,6 +273,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
