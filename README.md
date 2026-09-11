@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
@@ -287,6 +288,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -420,6 +422,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
@@ -812,4 +815,8 @@
 | [0032-longest-valid-parentheses](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
