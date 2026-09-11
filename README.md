@@ -633,6 +633,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -688,6 +689,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -717,6 +719,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
