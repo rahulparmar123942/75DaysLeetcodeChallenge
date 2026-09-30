@@ -50,6 +50,7 @@
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0518-coin-change-ii) |
@@ -585,6 +586,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
