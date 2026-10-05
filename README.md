@@ -145,6 +145,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0451-sort-characters-by-frequency) |
@@ -253,6 +254,7 @@
 | [0344-reverse-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0678-valid-parenthesis-string) |
@@ -379,6 +381,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -679,6 +682,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
