@@ -79,6 +79,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1200-minimum-absolute-difference) |
+| [1219-path-with-maximum-gold](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -407,6 +408,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0463-island-perimeter) |
 | [0931-minimum-falling-path-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1219-path-with-maximum-gold](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -498,6 +500,7 @@
 | [0257-binary-tree-paths](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
