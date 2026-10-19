@@ -92,7 +92,7 @@ class Solution {
         return originalGoldValue + maxGold;
     }
 
-    public int getMaximumGold(int[][] grid) {
+    public int getMaximumGold(int[][] grid) { 
 
         int n = grid.length;
         int m = grid[0].length;
