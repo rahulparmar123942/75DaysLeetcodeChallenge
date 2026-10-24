@@ -1,26 +1,27 @@
 class Solution {
-    static int[] dp;
 
-    public int rob(int[] arr) {
-        int n = arr.length;
+    static int[]dp;
+    public int rob(int[] nums) {
+        
+        int n = nums.length;
+        
         dp = new int[n];
-        Arrays.fill(dp, -1);
-        return loot(0, arr);
+        Arrays.fill(dp,-1);
+
+        return solve(nums,0);
     }
+    public int solve(int[] nums,int idx){
 
-    public int loot(int i, int[] arr) {
-        if (i >= arr.length)
-            return 0;
+          int n = nums.length;
 
-        if (dp[i] != -1)
-            return dp[i];
+          if(idx>=n) return 0;
+          
+          if(dp[idx]!= -1) return dp[idx];
 
-        int pick = arr[i] + loot(i + 2, arr);
-        int skip = loot(i + 1, arr);
+          int take = nums[idx] + solve(nums,idx+2);
 
-        int ans = Math.max(pick, skip);
+          int skip = solve(nums,idx+1);
 
-        dp[i] = ans;
-        return ans;
+          return dp[idx] = Math.max(take,skip);
     }
 }
