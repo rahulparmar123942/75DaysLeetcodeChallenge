@@ -279,6 +279,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -615,6 +616,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
+| [2810-faulty-keyboard](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2810-faulty-keyboard) |
 ## Linked List
 |  |
 | ------- |
