@@ -214,6 +214,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -536,6 +537,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0400-nth-digit) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
