@@ -112,6 +112,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2615-sum-of-distances](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2615-sum-of-distances) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -197,6 +198,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2784-check-if-array-is-good](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
@@ -229,6 +231,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -351,6 +354,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String Matching
 |  |
 | ------- |
