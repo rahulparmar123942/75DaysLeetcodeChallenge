@@ -94,6 +94,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2032-two-out-of-three) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -158,6 +159,7 @@
 | [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2032-two-out-of-three) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2540-minimum-common-value) |
@@ -401,6 +403,7 @@
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
