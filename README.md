@@ -57,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -154,6 +155,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/1695-maximum-erasure-value) |
@@ -189,6 +191,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0769-max-chunks-to-make-sorted) |
@@ -221,6 +224,7 @@
 | [0400-nth-digit](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -343,6 +347,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/rahulparmar123942/75DaysLeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
